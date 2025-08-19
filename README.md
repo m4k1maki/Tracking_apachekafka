@@ -43,12 +43,13 @@ Key motivations:
 -Database: MySQL
 -Big Data: Apache Kafka, MapReduce (Python implementation)
 -DevOps: Docker, Docker Compose
+---
 ⚙️ Installation
 1.Clone repository
 2.Run Kafka & Zookeeper via Docker
 3.Install dependencies
 4.Start Streamlit App
-
+---
 📊 Demo
 Customer View
 Create orders, view status in real time
@@ -57,7 +58,7 @@ Update delivery status (Picked Up, Delivering, Delivered)
 Admin View
 Manage orders & users
 Real-time statistics (MapReduce on Kafka topics)
+---
 📫 Contact
 📧 Email: uongthanhtrung2004@gmail.com
-    Admin --> F
-    Shipper --> F
+
